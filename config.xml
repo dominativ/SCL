@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.dating.lonelyz" version="1.1">
-  <name>Lonelyz</name>
-  <description>Imperfect People Dating</description>
-  <author href="http://lonelyz.com" email="info@lonelyz.com">Lonelyz</author>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.stripclublocator.app" version="1.1">
+  <name>Strip Club Locator</name>
+  <description>Find Your Next Strip Club</description>
+  <author href="http://stripclublocatorapp.com" email="hello@stripclublocatorapp.com">Strip Club Locator</author>
   <content src="index.html"/>
   <preference name="KeepRunning" value="false" />
   <preference name="permissions" value="none"/>
